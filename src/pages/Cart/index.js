@@ -1,5 +1,5 @@
 import React from 'react';
-import { MdRemoveCircleOutline, MdAddCircleOutline, MdDelete } from 'react-icons/md'
+import { MdRemoveCircleOutline, MdAddCircleOutline, MdDelete } from 'react-icons/md';
 
 import { Container, ProductTable, Total } from './styles';
 
@@ -49,7 +49,6 @@ export default function Cart() {
             </td>
           </tr>
         </tbody>
-
       </ProductTable>
 
       <footer>
